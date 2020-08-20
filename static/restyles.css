@@ -1,0 +1,39 @@
+body {
+	background-color: black;
+}
+* {
+	box-sizing: border-box;
+}
+
+.main {
+	width: 1000px;
+	margin: auto;
+}
+
+
+
+.table {
+	background-image: url(base_res.png);
+	width: 800px;
+	margin-top: 240px;
+	margin-left: 100px;
+}
+
+
+.center {
+	width: 800px;
+	
+}
+
+
+p {
+	color: white;
+}
+
+.n_p {
+/*	border: 2px solid whit*/e;
+	margin-top: -490px;
+	margin-left: 150px;
+}
+
+

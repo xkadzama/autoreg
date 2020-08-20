@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+@font-face{
+	font-family: Bebas;
+	src:url(fonts/BebasNeue-Regular.ttf);
+}
+
+p {
+    color: white;
+    font-family: Bebas;
+    
+}
+
+/* 
+.img {
+    background-image: url(image/base_res.png);
+    width: 1000px;
+    height: 1000px;
+} */
+
+
+.lp {
+    margin-left: 15px;
+}
